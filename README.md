@@ -5,7 +5,7 @@ Python tools to interface the **Brunner CLS2Sim / Sim2** active control hardware
 with the **MARSH** simulation environment developed at Politecnico di Milano’s  
 Rotorcraft–Pilot Coupling (RPC) laboratory.
 
-## 🚁 Overview
+## Overview
 
 This repository provides a modular set of scripts to capture, analyze and forward
 joystick data from the Brunner control system to the MARSH simulator using the
@@ -17,7 +17,7 @@ phenomena.
 
 ---
 
-## 📡 System Architecture
+## System Architecture
 
       ┌──────────────────────┐
       │   Brunner CLS2Sim    │
@@ -49,7 +49,7 @@ to verify communication with MARSH.
 
 ---
 
-## 🧩 Repository Structure
+## Repository Structure
 
 | File | Description |
 |------|--------------|
